@@ -59,7 +59,7 @@ Business-Analytics-Project/
 * Sales by Category
 * Sales by Region
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](images/Dashboard-1.png)
 
 ---
 
@@ -69,7 +69,7 @@ Business-Analytics-Project/
 * Sales by Sub-Category
 * Top 10 Products
 
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](images/Dashboard-2.png)
 
 ---
 
@@ -79,7 +79,7 @@ Business-Analytics-Project/
 * Growth % Analysis
 * Sales Forecast (Tableau Forecasting)
 
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](images/Dashboard-3.png)
 
 ---
 
